@@ -1,3 +1,3 @@
-# senai-sa
+# SA_BackEnd_Intelbras
 
-Membros: Beatriz, Fernanda, Gabriella e Manuella
+Membros: Beatriz Arevalo, Fernanda Guimarães, Gabriella da Rocha e Manuella Tafernaberri
