@@ -1,1 +1,1 @@
-prompt('teste')
+prompt("teste 2")
