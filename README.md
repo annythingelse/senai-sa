@@ -23,3 +23,15 @@ Descreva seu commit utilizando a [documentação](https://www.conventionalcommit
     git config user.name "nome-do-usuario"
 
     git config user.email "seu-email@github"
+
+## 🔄 Para atualizar a branch local
+
+    git pull origin nome-da-branch
+
+## ➕ Para criar uma branch local e entrar nela
+
+    git checkout -b nome-da-nova-branch
+
+## 🖇️ Para entrar em uma branch
+
+    git checkout nome-da-nova-branch
