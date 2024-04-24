@@ -1,1 +1,1 @@
-prompt("teste 2")
+alert("testando");
