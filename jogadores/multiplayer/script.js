@@ -1,5 +1,6 @@
 let nivelDeDificuldade;
 let num;
+// let num = document.getElementById("NumeroMagico")
 
 nivelDeDificuldade = Number(
   prompt(`Selecione o nível de dificuldade: 
@@ -28,6 +29,7 @@ for (let i = 0; i < 5; i++) {
     alert("Chute um número menor");
   } else if (magicNumber == num) {
     alert("Certa resposta!!");
+    break;
   }
 
   acumulador++;
